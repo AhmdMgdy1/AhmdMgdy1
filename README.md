@@ -8,6 +8,8 @@
 
 - 💬 Ask me about **Nothing, I am not Google😊**
 
+- 📧 How to reach me **<a href="https://magdy25802bd@gmail.com">Gmail</a>** **<a href="https://www.linkedin.com/in/ahmed-magdy-a8897923a">Linkedin</a>**
+
 - ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
