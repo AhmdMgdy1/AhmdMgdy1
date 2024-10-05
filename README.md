@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Nothing, I am not Google😊**
 
-- 📧 How to reach me **<a href="https://magdy25802bd@gmail.com">Gmail</a>** **<a href="https://www.linkedin.com/in/ahmed-magdy-a8897923a">Linkedin</a>** **<a href="https://www.hackerrank.com/profile/magdy25802bd">HackerRank</a>** **<a href="https://codeforces.com/profile/ahmd_mgdy1">Codeforces</a>** 
+- 📧 How to reach me **<a href="https://magdy25802bd@gmail.com" target="_blank">Gmail</a>** **<a href="https://www.linkedin.com/in/ahmed-magdy-a8897923a" >Linkedin</a>** **<a href="https://www.hackerrank.com/profile/magdy25802bd" target="_blank">HackerRank</a>** **<a href="https://codeforces.com/profile/ahmd_mgdy1" target="_blank">Codeforces</a>** 
 
 - ⚡ Fun fact **I think I am funny**
 
