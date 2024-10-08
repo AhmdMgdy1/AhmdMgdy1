@@ -4,7 +4,7 @@
 
 - 📖 Education **(Undergraduate) : Third Mechatronics Department - Shoubra Faculty of Engineering.**
 
-- 🌱 Learning **about Microcontrollers , Embedded Sofware**
+- 🌱 Learning **about Microcontrollers , Embedded Software**
 
 - 💬 Ask me about **Nothing, I am not Google😊**
 
